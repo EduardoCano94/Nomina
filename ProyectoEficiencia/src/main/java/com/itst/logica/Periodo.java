@@ -1,4 +1,4 @@
-package com.ist.logica;
+package com.itst.logica;
 
 import java.io.Serializable;
 import java.util.Date;

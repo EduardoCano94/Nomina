@@ -4,6 +4,7 @@ import java.io.Serializable;
 import java.sql.Time;
 import java.util.Date;
 import javax.persistence.*;
+import lombok.Getter;
 
 @Entity
 @Table(name = "asistencias")
